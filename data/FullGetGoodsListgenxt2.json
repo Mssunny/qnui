@@ -1,0 +1,66 @@
+{
+  "goods": [
+    {
+      "numIid": 42016837092,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i1/TB14bvxGFXXXXcSXpXXXXXXXXXX_!!0-item_pic.jpg",
+      "title": "软件抽奖专用300元话费包",
+      "price": "300.00",
+      "used": false
+    },
+    {
+      "numIid": 42016541562,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i3/TB1ZRLuGFXXXXXqXVXXXXXXXXXX_!!0-item_pic.jpg",
+      "title": "软件抽奖专用500元话费包",
+      "price": "500.00",
+      "used": false
+    },
+    {
+      "numIid": 42031128495,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i2/TB1IPnwGFXXXXXGXFXXXXXXXXXX_!!0-item_pic.jpg",
+      "title": "软件抽奖专用200元话费包",
+      "price": "200.00",
+      "used": false
+    },
+    {
+      "numIid": 41987534616,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i4/TB1K7HwGFXXXXXGXFXXXXXXXXXX_!!0-item_pic.jpg",
+      "title": "软件抽奖专用100元话费包",
+      "price": "100.00",
+      "used": false
+    }
+  ],
+  "goodsp": [
+    {
+      "numIid": 42016837092,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i1/TB14bvxGFXXXXcSXpXXXXXXXXXX_!!0-item_pic.jpg",
+      "title": "软件抽奖专用300元话费包",
+      "price": "300.00",
+      "used": false
+    },
+    {
+      "numIid": 42016541562,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i3/TB1ZRLuGFXXXXXqXVXXXXXXXXXX_!!0-item_pic.jpg",
+      "title": "软件抽奖专用500元话费包",
+      "price": "500.00",
+      "used": false
+    },
+    {
+      "numIid": 42031128495,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i2/TB1IPnwGFXXXXXGXFXXXXXXXXXX_!!0-item_pic.jpg",
+      "title": "软件抽奖专用200元话费包",
+      "price": "200.00",
+      "used": false
+    },
+    {
+      "numIid": 41987534616,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i4/TB1K7HwGFXXXXXGXFXXXXXXXXXX_!!0-item_pic.jpg",
+      "title": "软件抽奖专用100元话费包",
+      "price": "100.00",
+      "used": false
+    }
+  ],
+  "page": 2,
+  "totalPage": 3,
+  "code": 0,
+  "type": 0
+}

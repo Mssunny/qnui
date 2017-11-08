@@ -1,0 +1,10 @@
+{
+  "nick": "杭州佑软科技有限公司",
+  "shopName": "淘名片",
+  "smsCount": 8,
+  "teleCount": 8,
+  "needDrawOpen": false,
+  "needDraw": false,
+  "versionnum": "new",
+  "authUrl": "https://oauth.taobao.com/authorize?response_type=code&client_id=21227586&redirect_uri=http://mlottery.shopmodule.jaeapp.com/admin/R2AuthCode.h4&view=web"
+}

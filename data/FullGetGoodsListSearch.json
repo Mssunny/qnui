@@ -1,0 +1,39 @@
+{
+  "goods": [
+    {
+      "numIid": 44931478036,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i4/749864544/TB2zgjQdwNlpuFjy0FfXXX3CpXa-749864544.jpg",
+      "title": "短信100条",
+      "price": "3.90",
+      "used": false
+    },
+    {
+      "numIid": 41987534616,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i4/TB1K7HwGFXXXXXGXFXXXXXXXXXX_!!0-item_pic.jpg",
+      "title": "软件抽奖专用100元话费包",
+      "price": "100.00",
+      "used": false
+    }
+  ],
+  "goodsp": [
+    {
+      "numIid": 44931478036,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i4/749864544/TB2zgjQdwNlpuFjy0FfXXX3CpXa-749864544.jpg",
+      "title": "短信100条",
+      "price": "3.90",
+      "used": false
+    },
+    {
+      "numIid": 41987534616,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i4/TB1K7HwGFXXXXXGXFXXXXXXXXXX_!!0-item_pic.jpg",
+      "title": "软件抽奖专用100元话费包",
+      "price": "100.00",
+      "used": false
+    }
+  ],
+  "page": 1,
+  "totalPage": 1,
+  "code": 0,
+  "type": 0,
+  "search": "100"
+}

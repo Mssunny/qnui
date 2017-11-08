@@ -1,0 +1,38 @@
+{
+  "goods": [
+    {
+      "numIid": 41968239995,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i1/TB1Fg6MGFXXXXXkXXXXXXXXXXXX_!!0-item_pic.jpg",
+      "title": "软件抽奖专用50元话费包",
+      "price": "50.00",
+      "used": false
+    },
+    {
+      "numIid": 527879074694,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i2/749864544/TB2f.8WnYplpuFjSspiXXcdfFXa-749864544.jpg",
+      "title": "福利淘短信20条",
+      "price": "1.00",
+      "used": false
+    }
+  ],
+  "goodsp": [
+    {
+      "numIid": 41968239995,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i1/TB1Fg6MGFXXXXXkXXXXXXXXXXXX_!!0-item_pic.jpg",
+      "title": "软件抽奖专用50元话费包",
+      "price": "50.00",
+      "used": false
+    },
+    {
+      "numIid": 527879074694,
+      "picUrl": "https://img.alicdn.com/bao/uploaded/i2/749864544/TB2f.8WnYplpuFjSspiXXcdfFXa-749864544.jpg",
+      "title": "福利淘短信20条",
+      "price": "1.00",
+      "used": false
+    }
+  ],
+  "page": 3,
+  "totalPage": 3,
+  "code": 0,
+  "type": 0
+}

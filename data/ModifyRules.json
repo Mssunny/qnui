@@ -1,0 +1,33 @@
+{
+  "activityId": "39babc9d11c446ef9e35f263a933100f",
+  "id": "e38e938ffa23410f80e01ab10aebd253",
+  "type": "buyer",
+  "telechargeDrawListd": [],
+  "startTime": "2017-05-24 17:05:36.0",
+  "endTime": "2017-05-31 17:05:36.0",
+  "rlt": 0,
+  "txt": "dsdz",
+  "txtt": "本店于2017-05-24 17:05:36 至 2017-05-31 17:05:36 期间开展抽奖活动！\r\n感恩回馈,人人有奖！具体的抽奖条件请查看'抽奖条件'说明。\r\n[奖品发放规则]\r\n、手机流量奖品：会发放到淘宝帐户上，请在我的淘宝我的卡券包中查看。\r\n、话费奖品：直接充值到淘宝网内登记的手机号码上。",
+  "temptype": "0",
+  "info": {
+    "hashCode": -2147483648,
+    "id": "749864544",
+    "luckyNum1": 8,
+    "signSendNum": 20,
+    "percent": 5,
+    "lotteryType": "1",
+    "lotteryName": "双色球",
+    "step": 0,
+    "setFinished": true,
+    "sendLottery": false,
+    "template": "dsdz",
+    "drawNum": 1077,
+    "drawTimes": 1065,
+    "winnersHead": "恭喜以下小主中奖：",
+    "noWinners": "暂无中奖信息！期待您的大名出现！",
+    "winnersFormat": "1",
+    "mobileTemplate": "dsdz",
+    "brandId": "1",
+    "fullscreenTemplate": "fjgg120"
+  }
+}

@@ -1,0 +1,16 @@
+.center{
+  text-align: center !important;
+}
+.mxTable{
+  border: 1px solid #d0d0d0;
+  width: 600px;
+  td{
+    border: 1px solid #d0d0d0;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 10px;
+  }
+  .right{
+    text-align: right;
+  }
+}

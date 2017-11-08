@@ -1,0 +1,59 @@
+@import '../../styles/common';
+
+
+.div-index {
+  // padding-left: 20px;
+  height: 500px;
+  .div-left {
+    left: 20px;
+  }
+  .div-right {
+    left : 40px;
+  }
+  .div-both{
+    position: relative;
+    float: left;
+    top: 20px;
+    border-radius: 5px;
+    width: 260px;
+    height: 220px;
+    border: solid #E0E0E0 1px;
+  }
+}
+.div-top {
+  top: 100px;
+  left: 100px;
+  width: 100%;
+  height: 20px;
+  background-color: #FFDCB9; 
+  vertical-align: middle;
+  color: red;
+}
+.div-right>div,.div-left>div{
+  position: relative;
+  text-align: center;
+}
+.div-inner-top-l {
+position: relative;
+color: blue;
+font: 20px blod;
+top: 20%;
+}
+.div-inner-top-r {
+position: relative;
+color: orange;
+font: 20px blod;
+top: 20%;
+}
+.div-inner-mid {
+position: relative;
+top: 25%;
+margin-top: 0px;
+}
+.div-inner-bot {
+position: relative;
+top: 35%;
+}
+.ml20{
+  margin-left: 20px;
+}

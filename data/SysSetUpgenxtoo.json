@@ -1,0 +1,33 @@
+{
+  "activityId": "d712a774f830403aaf8f04501fb4726d",
+  "id": "1797f8dc80854a48b24d486bd8283ebd",
+  "type": "buyer",
+  "telechargeDrawListd": [],
+  "startTime": "2017-06-02 16:06:37.0",
+  "endTime": "2017-06-09 16:06:37.0",
+  "rlt": 0,
+  "txt": "dsdz",
+  "txtt": "asd ",
+  "temptype": "0",
+  "info": {
+    "hashCode": -2147483648,
+    "id": "749864544",
+    "luckyNum1": 8,
+    "signSendNum": 20,
+    "percent": 5,
+    "lotteryType": "1",
+    "lotteryName": "双色球",
+    "step": 0,
+    "setFinished": true,
+    "sendLottery": false,
+    "template": "dsdz",
+    "drawNum": 222,
+    "drawTimes": 1111,
+    "winnersHead": "恭喜我",
+    "noWinners": "哈哈",
+    "winnersFormat": "3",
+    "mobileTemplate": "dsdz",
+    "brandId": "1",
+    "fullscreenTemplate": "fegg206"
+  }
+}

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title >DS试驾</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"/>
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="black" name="apple-mobile-web-app-status-bar-style">
+<meta content="telephone=no" name="format-detection">
+<script type="text/javascript" src="./js/jquery-1.10.1.min.js"></script>
+<link type="text/css" rel="stylesheet" href="./css/mobile_dsdz.css"/>
+</head>
+<body>
+	<div class="eject winlert" style="height:auto;width:70%">
+	  <div class="winlert_main" style="padding:10px 10px;">
+		<div class="winlert_content tc" style="margin:5px 8px; overflow:hidden; height:26px;">
+	         <p class="tc"><a  href="javascript:void(0);" style="font-size: 16px">提示</a></p>
+		</div>
+	  </div>
+	</div>
+	<div style="display:none">
+        <input type="hidden" value="11111111111111111111111111111111111111111111111111111111111111111111111111" class="sellerId" />
+		<!--<input type="hidden" value="${resultData.sellerId}" class="sellerId" />-->
+		<input type="hidden" value="" class="genderInputValue"/>
+	</div>
+	<div class="top">
+		<img src="https://img.alicdn.com/imgextra/i1/749864544/TB2enQMpW8lpuFjy0FpXXaGrpXa-749864544.jpg" class="imgResponse"  />
+	</div>
+	<div class="box">
+		<ul class="t tt">
+			<li class="l w92 pb5">
+				<div class="l tl w18 pt4">姓名</div>
+				<div class="l tl w82">
+					<input name="" placeholder="请输入您的真实姓名" class="w100 pround nameInputValue" type="text">
+				</div>
+			</li>
+			<li class="l w92 pb5">
+				<div class="l tl w18 pt4">手机</div>
+				<div class="l tl w82">
+					<input name="" placeholder="您的电话号码" class="w100 pround phoneInputValue" type="text">
+				</div>
+			</li>
+			<li class="l w100 pb5">
+				<div class="l tl w18 pt4">性别</div>
+				<div class="l tl w30 pt2">
+					<input class="pround" onchange="fgender(this.value)" name="gender" type="radio" value="0"> 男
+				</div>
+				<div class="l tl w30 pt2">
+					<input class="pround" onchange="fgender(this.value)" name="gender" type="radio" value="1"> 女
+				</div>
+			</li>
+			<li class="l w98 pb5">
+				<div class="l tl w18 pt4">省份</div>
+				<div class="l tl w41">
+					<select class="w98 p3round province" onchange="getDSData(this.value)"  name="请选择省份">
+					</select>
+				</div>
+				<div class="r tr w41">
+					<select class="w98 p3round city" onchange="getDSData(this.value)"  name="请选择城市">
+					</select>
+				</div>
+			</li>
+			<li class="l w100 pb5">
+				<div class="l tl w18 pt4">区/县</div>
+				<div class="l tl w82">
+					<select class="w98 p2round district" onchange="getDSData(this.value)" name="请选择区/县 ">
+					</select>
+				</div>
+			</li>
+			<li class="l w100 pb5">
+				<div class="l tl w18 pt4">门店</div>
+				<div class="l tl w82">
+					<select class="w98 p2round store" onchange="getDSData(-1)" name="请选择门店">
+					</select>
+				</div>
+			</li>
+
+
+			<li class="l w100 tc mt5">
+				<a class="pl36 pt5 pb5 pr36 yysjButton" data-yysj-bg="#a51046">预约试驾</a>
+			</li>
+		</ul>
+	</div>
+</body>
+    <script src="./js/mobile_dsdz.js"></script>
+</html>

@@ -1,0 +1,11 @@
+{
+  "code": 200,
+  "msg": "ok",
+  "data":{
+    "list":[
+        "list1",
+		"list2",
+		"list3"
+    ]
+  } 
+}

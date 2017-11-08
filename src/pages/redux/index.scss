@@ -1,0 +1,19 @@
+@import '../../styles/common';
+.mod-row{
+  .next-col{
+    padding: 0 15px;
+    .next-tag-medium{
+      height: auto !important;
+      width: 100%;
+      margin: 15px !important;
+      .next-tag-body{
+        padding-top: 8px;
+        width: 100%;
+        img{
+          width: 100%;
+        }
+      }
+    }
+  }
+}
+

@@ -1,0 +1,30 @@
+{
+    "rlt": 0,
+    "type": "drainage",
+    "id": "e38e938ffa23410f80e01ab10aebd253",
+    "mname": "活动20170524170535",
+    "startTime": "2017-05-24 17:05:36.0",
+    "endTime": "2017-05-31 17:05:36.0",
+    "totalPage": 1,
+    "data": [
+        {
+            "mId": "e38e938ffa23410f80e01ab10aebd253",
+            "activityId": "39babc9d11c446ef9e35f263a933100f",
+            "mName": "活动20170524170535",
+            "startTime": "2017-05-24 17:05:36",
+            "endTime": "2017-05-31 17:05:36",
+            "sendType": "p",
+            "taobaoId": "749864544",
+            "addTime": "2017-05-24 17:05:44",
+            "status": 3,
+            "drawNum": 0,
+            "marketingType": "drainage",
+            "marketingExplain": "本店于2017-05-24 17:05:36 至 2017-05-31 17:05:36 期间开展抽奖活动！\r\n感恩回馈,人人有奖！具体的抽奖条件请查看'抽奖条件'说明。\r\n[奖品发放规则]\r\n、手机流量奖品：会发放到淘宝帐户上，请在我的淘宝我的卡券包中查看。\r\n、话费奖品：直接充值到淘宝网内登记的手机号码上。"
+        }
+    ],
+    "totalRecord": 1,
+    "curPage": 1,
+    "urls": "http://container.api.taobao.com/container?appkey=21227587&envMode=prod&seller_nick=杭州佑软科技有限公司&module_width=150&shop_id=69589101",
+    "isvip": true,
+    "sta": "3"
+}

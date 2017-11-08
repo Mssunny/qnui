@@ -1,0 +1,62 @@
+{
+  "code": 0,
+  "AwardList": [
+    {
+      "awardDetailUrl": "//ecrm.taobao.com/jxt/jxtHomepage.htm#//ecrm.taobao.com/benefit/benefit_detail.htm?from=juxingtai&benefitId=307995010",
+      "awardInstId": "307995010",
+      "awardPrice": 100,
+      "awardType": 1,
+      "awardType_name": "支付宝红包",
+      "canUseResCount": 4,
+      "currency": "元",
+      "currencySign": "￥",
+      "displayName": "1元支付宝红包",
+      "endDate": "2017-07-01 23:59:59",
+      "name": "1元支付红包",
+      "pictUrl": "//gw.alicdn.com/tps/TB1Nw1gMVXXXXcrXVXXXXXXXXXX-240-80.png",
+      "startDate": "2017-06-01 11:54:59",
+      "startFee": 0,
+      "totalResCount": 5,
+      "useEndDate": "2017-07-01 23:59:59",
+      "useStartDate": "2017-06-01 00:00:00"
+    },
+    {
+      "awardDetailUrl": "//ecrm.taobao.com/jxt/jxtHomepage.htm#//ecrm.taobao.com/benefit/benefit_detail.htm?from=juxingtai&benefitId=307995010",
+      "awardInstId": "307995011",
+      "awardPrice": 100,
+      "awardType": 1,
+      "awardType_name": "支付宝红包",
+      "canUseResCount": 4,
+      "currency": "元",
+      "currencySign": "￥",
+      "displayName": "2元支付宝红包",
+      "endDate": "2017-07-01 23:59:59",
+      "name": "2元支付红包",
+      "pictUrl": "//gw.alicdn.com/tps/TB1Nw1gMVXXXXcrXVXXXXXXXXXX-240-80.png",
+      "startDate": "2017-06-01 11:54:59",
+      "startFee": 0,
+      "totalResCount": 5,
+      "useEndDate": "2017-07-01 23:59:59",
+      "useStartDate": "2017-06-01 00:00:00"
+    },
+    {
+      "awardDetailUrl": "//ecrm.taobao.com/jxt/jxtHomepage.htm#//ecrm.taobao.com/benefit/benefit_detail.htm?from=juxingtai&benefitId=307995010",
+      "awardInstId": "307995012",
+      "awardPrice": 100,
+      "awardType": 1,
+      "awardType_name": "支付宝红包",
+      "canUseResCount": 4,
+      "currency": "元",
+      "currencySign": "￥",
+      "displayName": "3元支付宝红包",
+      "endDate": "2017-07-01 23:59:59",
+      "name": "3元支付红包",
+      "pictUrl": "//gw.alicdn.com/tps/TB1Nw1gMVXXXXcrXVXXXXXXXXXX-240-80.png",
+      "startDate": "2017-06-01 11:54:59",
+      "startFee": 0,
+      "totalResCount": 5,
+      "useEndDate": "2017-07-01 23:59:59",
+      "useStartDate": "2017-06-01 00:00:00"
+    }
+  ]
+}
