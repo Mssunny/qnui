@@ -49,6 +49,9 @@ export default {
     MarketingDrawTemplateSavegenx:'/data/MarketingDrawTemplateSavegenx.json',
     MarketingMeansDrawUpdateSendType:'/data/MarketingMeansDrawUpdateSendType.json',
 
+
+    InitData:'/data/InitData.json',
+
   },
   //daily环境,可重写base定义的接口
   development:{
@@ -88,6 +91,9 @@ export default {
     MarketingMobileLotterygenx:'/admin/MarketingMobileLotterygenx.json',
     MarketingDrawTemplateSavegenx:'/admin/MarketingDrawTemplateSavegenx.json',
     MarketingMeansDrawUpdateSendType:'/admin/MarketingMeansDrawUpdateSendType.json',
+
+
+    InitData:'/data/InitData.json',
     // SysSetUpgenxtoo:'/admin/SysSetUpgenxtoo.json'
     //page2List: '/data/page2List.json',
   },

@@ -1,8 +1,10 @@
 'use strict';
 
 import React from 'react';
+import { connect } from 'react-redux';
 import Tab from 'qnui/lib/tab';
 import Button from 'qnui/lib/button';
+
 import RunningTable from './Tabs/runningTable';
 import EndingTable from './Tabs/endingTable';
 import LinkTool from 'utils/linkTools';

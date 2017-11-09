@@ -29,7 +29,7 @@ class ActivityDiv extends React.Component {
     }
     render() {
         return <div className='div-index'>
-            <div className='div-top'><span className='ml20'>彩票功能已正式上线啦!</span></div>
+            /*<div className='div-top'><span className='ml20'>2017抽奖点我全新改版上线啦!</span></div>*/
              {this.state.data.ishave==1?(<div className='demo-col-inset'>
                     <div className='div-left div-both'>
                         <div className='div-inner-top-l'>

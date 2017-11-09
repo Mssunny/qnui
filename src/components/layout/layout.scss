@@ -1,19 +1,24 @@
 @import "../../styles/theme.scss";
+#container{
+}
 .container {
   width: 100%;
+  min-width:1000px;
   .main-content {
     overflow: hidden;
+    min-width:1000px;
+    
     .right-content {
-      position: relative;
-      // padding-left: 85px;
-      border-left: solid 15px #F0F0F0;
-      width: 87%;
+      position: relative; 
+      border-left: solid 15px #F0F0F0; 
+      border-right: solid 15px #F0F0F0; 
       float:left;
-      //margin-top: 80px;
-      //transition: padding 1s linear;
-      &.right-content-full{
-        // padding-left: 180px;
+     // min-width: 200px;
+      width:85%;  
+      min-width:500px;     
+      &.right-content-full{        
       }
+      .div-top{height:30px;line-height:30px;margin-bottom:15px;}
     }
   }
 }

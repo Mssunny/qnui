@@ -6,6 +6,7 @@ import Layout from 'components/layout/layout';
 import PraiseSend from './containers/praiseSend/praiseSend';
 import RecordList from './containers/recordList/recordList';
 import Pay from './containers/pay/pay';
+import Toolkit from './containers/toolkit/toolkit';
 
 
 let pageTitle = document.title;
@@ -39,6 +40,7 @@ export default (<Route path='/' component={Layout} onEnter={onRouteEnter} onChan
   <Route path='praiseSend' component={PraiseSend} title='praiseSend' />
   <Route path='recordList' component={RecordList} title='recordList'/>
   <Route path='pay' component={Pay} title='pay'/>
+  <Route path='toolkit' component={Toolkit} title='toolkit'/>
   <IndexRoute component={PraiseSend}/>
   <Route path='*' component={PraiseSend}/>
 </Route>);

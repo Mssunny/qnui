@@ -1,0 +1,34 @@
+.page1-page {
+
+  .result {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+    padding: 10px;
+    font-size: 25px;
+    background: #efefef;
+    color: #b03911;
+  }
+
+}
+.right-content-bor{
+	padding:20px;
+	background: #f8f8f8;
+    border: 1px solid #ebebeb;
+	.dl-wrap{
+		width:180px;
+		padding:10px 5px;
+		background:#ffffff;
+		border: 1px solid #ebebeb;
+		dt{
+			font-size:14px;
+			color:#999999;
+			font-weight: bold;
+		}
+		.icon1{
+			float:right;
+			color:#ffa033;
+		}
+	}
+	.Button-secondary{width:100%}
+
+}

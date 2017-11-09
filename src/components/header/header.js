@@ -80,16 +80,16 @@ class Header extends React.Component {
               </Balloon>
             </li>
             <li>
-              <span>用户短信余额&nbsp;:</span><a style={{color:'yellow'}}>&nbsp;{this.state.rlt.smsCount}&nbsp;</a><span>条</span>
+              <span>账户短信余额&nbsp;:</span><a style={{color:'yellow'}}>&nbsp;{this.state.rlt.smsCount}&nbsp;</a><span>条</span>
             </li>
             <li>
               <Icon type="dollar" size='small'/>
               <span><a href={LinkTool['router-pay']} style={{color:'white',fontSize:'10px'}}>充值</a></span>
             </li>
-			       {/*<li>*/}
-              {/*<Icon type="set" size='small'/>*/}
-              {/*<span><a href="/admin/Tools.h4" style={{color:'white',fontSize:'10px'}}>工具箱</a></span>*/}
-            {/*</li>*/}
+			       <li>
+              <Icon type="set" size='small'/>
+              <span><a href={LinkTool['router-toolkit']} style={{color:'white',fontSize:'10px'}}>工具箱</a></span>
+            </li>
 			      <li>
               <Icon type="descending" size='small'/>
               <span><a href="http://tb.cn/F2nhPWx" target="_blank" style={{color:'white',fontSize:'10px'}}>续费</a></span>

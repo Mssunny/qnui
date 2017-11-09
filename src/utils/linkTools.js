@@ -6,7 +6,8 @@ const linkConfig = {
     'router-praiseSend': '/demos/router.html#/praiseSend',
     'router-recordList': '/demos/router.html#/recordList',
     'router-pay': '/demos/router.html#/pay',
-	  'redux-activityList': '/demos/redux.html#/activityList',
+    'router-toolkit': '/demos/router.html#/toolkit',
+	'redux-activityList': '/demos/redux.html#/activityList',
     'redux-setConfig': '/demos/redux.html#/setConfig',
     'redux-setPrize': '/demos/redux.html#/setPrize',
     'redux-recordList': '/demos/redux.html#/recordList',
@@ -24,6 +25,7 @@ const linkConfig = {
     'router-praiseSend': 'QnRouter.h4#/praiseSend',
     'router-recordList': 'QnRouter.h4#/recordList',
     'router-pay': 'QnRouter.h4#/pay',
+    'router-tool-kit': '/demos/router.html#/toolkit',//工具箱
 	  'redux-activityList': 'QnRedux.h4#/activityList',
     'redux-setConfig': 'QnRedux.h4#/setConfig',
     'redux-setPrize': 'QnRedux.h4#/setPrize',

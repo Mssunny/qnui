@@ -2,14 +2,15 @@
 // 在此处引入 qnui/index.scss,并覆盖其中的变量内容
 
 .next-navigation-filling {
-    background-color: #011F37;
+    background-color: #811fe4;
 }
 .next-navigation a {
 	color: yellow;
 }
+.navigation-logo-zone{}
 .navigation-logo-zone img {
 	float:left;
-	margin-top:16px;
+	margin-top:25px;
 	//height: 52px;
 	//width: 52px;
 }
