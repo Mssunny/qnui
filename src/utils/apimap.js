@@ -51,6 +51,7 @@ export default {
 
 
     InitData:'/data/InitData.json',
+    LoginState:'/data/LoginState.json'
 
   },
   //daily环境,可重写base定义的接口
@@ -94,6 +95,7 @@ export default {
 
 
     InitData:'/data/InitData.json',
+    LoginState:'/data/LoginState.json'
     // SysSetUpgenxtoo:'/admin/SysSetUpgenxtoo.json'
     //page2List: '/data/page2List.json',
   },
